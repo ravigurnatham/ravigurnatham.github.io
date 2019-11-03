@@ -83,7 +83,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter: 
+twitter:
   username               :
 facebook:
   username               :
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Ravi Gurnatham"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm passionate about Machine learning and deep learning. Strong believer of Great value comes with great data"
   location         : "New York, USA"
   email            : "gurnatham.ravi@gmail.com"
@@ -297,6 +297,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout:single
-      author_profile:true
-
+      layout: single
+      author_profile: true
