@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Ravi Gurnatham"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist | Loves to solve problems"
+  bio              : "Data Scientist \| Loves to solve problems"
   location         : "New York, USA"
   email            : "gurnatham.ravi@gmail.com"
   links:
