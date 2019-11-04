@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Ravi Gurnatham"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist \| Loves to solve problems"
+  bio              : "Data Scientist, Infosys Ltd."
   location         : "New York, USA"
   email            : "gurnatham.ravi@gmail.com"
   links:
@@ -118,10 +118,10 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://rarvigurnatham.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/raviiit121"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ravg/"
 
 # Site Footer
 footer:
