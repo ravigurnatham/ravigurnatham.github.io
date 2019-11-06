@@ -1,11 +1,17 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Machine Learning & DL"
+    url: /machine-Learning/
+  - title: "Big data"
+    url: /big-data/
+  - title: "DS & Algorithms"
+    url: /ds-algos
+  - title: "Prorjects"
+    url: /projects/
   - title: "About"
-    url: /about
-  - title: "Sample Posts"
-    url: /year-archive/
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   - title: "Sample Collections"
     url: /collection-archive/
   - title: "Sitemap"

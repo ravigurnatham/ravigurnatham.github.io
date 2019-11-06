@@ -5,4 +5,4 @@ header:
   image: "/assets/images/high.jpg"
 ---
 
-Im a data scientist with experience in NLP and deep learning and computer vision.
+I'm a data scientist with experience in NLP and deep learning and computer vision.
