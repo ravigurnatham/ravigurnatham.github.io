@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning"
-permalink: "/machine-learning"
+permalink: "/machine-Learning"
 #header:
 #  image: "/assets/images/high.jpg"
 ---
