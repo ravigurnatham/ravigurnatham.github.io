@@ -1,6 +1,6 @@
 ---
 title: "Big Data"
-permalink: "/big-data"
+permalink: "/big-data/"
 #header:
 #  image: "/assets/images/high.jpg"
 ---

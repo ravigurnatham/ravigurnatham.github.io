@@ -1,6 +1,6 @@
 ---
 title: "Data structures & Algorithms"
-permalink: "/ds-algos"
+permalink: "/ds-algos/"
 #header:
 #  image: "/assets/images/high.jpg"
 ---
