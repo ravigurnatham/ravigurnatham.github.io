@@ -1,6 +1,6 @@
 ---
 title: "My Projects"
-permalink: "/projects"
+permalink: "/projects/"
 #header:
 #  image: "/assets/images/high.jpg"
 ---
