@@ -239,6 +239,19 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+
+collections:
+  drafts: 
+    output: true
+    permalink: /:categories/:title/
+  music-naka:
+    output: true
+    permalink: /:categories/:title/
+  only-human:
+    output: true
+    permalink: /:categories/:title/
+
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
