@@ -6,13 +6,13 @@ main:
     url: /big-data/
   - title: "DS & Algorithms"
     url: /ds-algos/
-  - title: "Prorjects"
+  - title: "Projects"
     url: /projects/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemaps/
+  #- title: "Sample Collections"
+  #  url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemaps/
