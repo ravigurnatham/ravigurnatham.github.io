@@ -3,7 +3,8 @@ main:
   - title: "Machine Learning & DL"
     url: /machine-Learning/
   - title: "Big data"
-    url: /big-data/
+    url: /music-naka
+    #url: /big-data/
   - title: "DS & Algorithms"
     url: /ds-algos/
   - title: "Projects"
