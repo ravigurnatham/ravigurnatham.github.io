@@ -1,6 +1,7 @@
 ---
 title: "Igniting the Flame"
 author: Aravind Iyer
+permalink: /music-naka/quick-start-guide/
 date: 2016-08-19 09:00:00 +0530
 categories: music-naka
 header:
