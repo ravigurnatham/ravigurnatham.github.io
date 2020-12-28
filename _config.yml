@@ -241,13 +241,14 @@ plugins:
 
 
 collections:
-  drafts: 
+  collections_dir: mycollections
+  datascience: 
     output: true
     permalink: /:categories/:title/
-  music-naka:
-    output: true
+  bigdata:
+    output: true. #by default pages will not show , so to show them default output is true
     permalink: /:categories/:title/
-  only-human:
+  datastructures:
     output: true
     permalink: /:categories/:title/
 
@@ -312,7 +313,7 @@ defaults:
       share: true
       related: true
       show_date: true
-
+  #_pages
   - scope:
       path: ""
       type: pages
